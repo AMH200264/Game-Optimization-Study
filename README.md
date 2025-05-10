@@ -6,9 +6,9 @@ May 9th, 2025
 ## Introduction
   As of recent, technology has been advancing at an exponential rate: the TVs get thinner, the processors get faster, and everyone's racing for the next breakthrough idea. Among these developments, video games are no different. In the span of roughly 40 years, video games have gone from side-scrolling adventures that could barely handle a few colors on screen, to photorealistic setpieces that look better and better with each release. These facelifts definitely don't come for free however. The phrase "next-generation" seems to become louder and louder with each passing year, and with it other large phrases that the technologically untrained ear would interpret as that of a supercomputer: "teraflops", "multi-core processing", "solid-state disks", and a lot more. Despite all of these advancements, a trend has been noticed by hardware enthusiasts, developers, and gamers alike: it takes a lot of power to run modern games. The argument isn't being made that high fidelity titles should be able to run on the likes of a toaster; the fact that some are *nearly* able to however, raises questions. Are developers cutting corners optimizing their game's performance to save money? Is there an increasing reliance on AI technologies to pick up the slack? Or have these blockbuster titles reached a level of fidelity that truly require some heavy horsepower? Let's take a look at the numbers and find out.
   
-  ## Collecting Performance Data From Players
+## Collecting Performance Data From Players
   
-  ### High Fidelity, High Requests
+### High Fidelity, High Requests
   What better place to collect data than from the people playing the games? Can You RUN It[^1] is a public forum where users can poll what kind of hardware they have, what kind of titles they can run, and how well they run. I decided to take the most popular games listed in the last 30 days (as of May 1st, 2025) and chart them based on release year and percentage of users who passed the minimum requirements for the title.
 ![game_release_year run_percentage](https://github.com/user-attachments/assets/155be95d-312c-48b9-95ab-c5004d6386e4)
   > Average percentage of users meetings titles' requested minimum hardware requirements between 2009 and 2025
@@ -37,7 +37,7 @@ Despite a very volatile visual presentation, there's actually a slight upturn he
 
   As we can see from this upward trend, titles generally require a GPU that has released within 5 years of the title, which is fair considering how quickly fidelity has advanced. The minimum GPU release year hovers at about 2012, which means some of these cards are at most 13 years old and still able to run these games. Of course there are GPUs that have released more recently, like Nvidia's 50 series cards (if those were requirements in any capacity we would truly be in trouble). Most data collected stems from more recent GPUs however, which is concerning considering the previously discussed drop in average FPS.
 
-  ### Additional Hardware Upticks
+### Additional Hardware Upticks
   
   We've discussed GPUs quite a bit. Despite the heavy lifting they do, they're not the only pieces of hardware that are being put to work. Many titles are requiring users to have more RAM (random access memory) and storage.
 ![ram year](https://github.com/user-attachments/assets/c83ae62e-edd9-440d-9566-f0c9fab26a22)
