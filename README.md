@@ -98,8 +98,8 @@ To illustrate an example of the absence of optimization, we can look at Bloober 
 It's easy to assume that games have just become too advanced and high fidelity for the hardware to keep up. While yes, running recent titles is no small feat, a lack of optimization has reared its head as a culprit. The damage this does extends to bloated game sizes, increasing minimum and maximum requirements, underutilization of capable hardware, and subpar performance. If developers spend apt time optimizing titles and leverage use of the historical leveled hardware we have, everyone can benefit from an enhanced experience where both consumers and developers can enjoy and create media without compromise.
 
 # References
-[^1]: https://www.systemrequirementslab.com/cyri
-[^2]: https://www.digitalfoundry.net/
-[^3]: https://www.techspot.com/
-[^4]: https://www.tomshardware.com/
-[^5]: https://www.kaggle.com/datasets/alanjo/gpu-benchmarks
+[^1]: (https://www.systemrequirementslab.com/cyri)
+[^2]: (https://www.digitalfoundry.net/)
+[^3]: (https://www.techspot.com/)
+[^4]: (https://www.tomshardware.com/)
+[^5]: (https://www.kaggle.com/datasets/alanjo/gpu-benchmarks)
