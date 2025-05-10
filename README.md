@@ -7,6 +7,7 @@ May 9th, 2025
   As of recent, technology has been advancing at an exponential rate: the TVs get thinner, the processors get faster, and everyone's racing for the next breakthrough idea. Among these developments, video games are no different. In the span of roughly 40 years, video games have gone from side-scrolling adventures that could barely handle a few colors on screen, to photorealistic setpieces that look better and better with each release. These facelifts definitely don't come for free however. The phrase "next-generation" seems to become louder and louder with each passing year, and with it other large phrases that the technologically untrained ear would interpret as that of a supercomputer: "teraflops", "multi-core processing", "solid-state disks", and a lot more. Despite all of these advancements, a trend has been noticed by hardware enthusiasts, developers, and gamers alike: it takes a lot of power to run modern games. The argument isn't being made that high fidelity titles should be able to run on the likes of a toaster; the fact that some are *nearly* able to however, raises questions. Are developers cutting corners optimizing their game's performance to save money? Is there an increasing reliance on AI technologies to pick up the slack? Or have these blockbuster titles reached a level of fidelity that truly require some heavy horsepower? Let's take a look at the numbers and find out.
   
   ## Collecting Performance Data From Players
+  
   ### High Fidelity, High Requests
   What better place to collect data than from the people playing the games? Can You RUN It[^1] is a public forum where users can poll what kind of hardware they have, what kind of titles they can run, and how well they run. I decided to take the most popular games listed in the last 30 days (as of May 1st, 2025) and chart them based on release year and percentage of users who passed the minimum requirements for the title.
 ![game_release_year run_percentage](https://github.com/user-attachments/assets/155be95d-312c-48b9-95ab-c5004d6386e4)
@@ -17,6 +18,7 @@ May 9th, 2025
   As time goes on, more and more graphics cards (GPUs), processors (CPUs), RAM (random access memory), and other components flood the market, causing a greater variety of hardware setups to exist, which can account for overall fluctuation. What the data here says however, is that regardless of those varied setups, the average user is having more and more trouble meeting minimum hardware requirements for titles as time goes on.
 
 ### How The Performance Stacks Up
+
   Let's take a look at how all of this hardware performs. I've collected data from hardware blogs like Digital Foundry[^2], TechSpot[^3], and Tom's Hardware[^4], detailing the average performance of 100 triple A titles released between 2009 and 2025 on recommended PC level hardware.
 ![year averagefps](https://github.com/user-attachments/assets/09f79671-49d8-432c-96c5-689fb7ea0a88)
   > Average framerate of triple A games at recommended hardware requirements between 2009 and 2025
@@ -24,7 +26,9 @@ May 9th, 2025
 Despite a very volatile visual presentation, there's actually a slight upturn here with a ≈ +3.64% framerate increase from 2009 to 2025. More recent trends however (2020 to 2025) show a more prevalent drop of ≈ -21.92%, with a drop of ≈ -5.48% between each year. The gaming industry has slowly crept to a framerate of 60 frames per second from a primitive 30 frames per second. The fact that hardware setups are returning inconsistent average frame rates at recommended hardware levels can lead us to believe that the hardware isn't being utilized to it's full potential, especially since the recommended GPUs are less than 2 years old and boast impressive potential, such as Nvidia's 40 series and AMD's 7000 series cards.
 
 ## Evolving Hardware
+
 ### Climbing Requirements
+
  As much as we wish legacy hardware could render individual strands of hair and realistic light physics, the truth is it can't. While it's natural for stronger hardware to be present for more demanding titles, many developers throughout the years have used a level of finesse to make these titles run on older hardware; that was before the introduction of frame-generation technologies like Nivida's DLSS and AMD's FSR, technologies that are becoming more and more popular with each occurring hardware generation.<br/>
   <br/>
   **NOTE: many of these titles are console ports from Playstation and Xbox systems, which account for titles having GPU requirements more recent than the title's release.**
@@ -34,6 +38,7 @@ Despite a very volatile visual presentation, there's actually a slight upturn he
   As we can see from this upward trend, titles generally require a GPU that has released within 5 years of the title, which is fair considering how quickly fidelity has advanced. The minimum GPU release year hovers at about 2012, which means some of these cards are at most 13 years old and still able to run these games. Of course there are GPUs that have released more recently, like Nvidia's 50 series cards (if those were requirements in any capacity we would truly be in trouble). Most data collected stems from more recent GPUs however, which is concerning considering the previously discussed drop in average FPS.
 
   ### Additional Hardware Upticks
+  
   We've discussed GPUs quite a bit. Despite the heavy lifting they do, they're not the only pieces of hardware that are being put to work. Many titles are requiring users to have more RAM (random access memory) and storage.
 ![ram year](https://github.com/user-attachments/assets/c83ae62e-edd9-440d-9566-f0c9fab26a22)
   > Title release year and recommended amount of RAM (gb)
@@ -52,7 +57,9 @@ For the longest time, 16GB has been considered the sweet spot for anyone, from t
 It's not just performance requirements that are spiking; modern games are requiring more and more storage. Once again, this isn't surprising since games have had increasingly higher resolution textures, higher LOD (level of detail) models, and more interactive physics. There are some instances however that suggest developers aren't doing all they can to keep sizes as low as possible. An example many point to is _Call of Duty: Black Ops 6_ which not only comes in at a staggering 130GB storage requirement, but even requires an SSD, a trend that's been gaining speed. Another instance is Square Enix's recent _FINAL FANTASY VII REBIRTH_, which has a shocking size of 150GB. We can see that the lack of optimization has also spread to compressing game sizes.
 
 ## A Worthwhile Investment?
+
 ### GPU Prices
+
 A large appeal of PC gaming to many is the modularity of the hardware. Unlike home consoles that have to tough it out the entire hardware generation, PC users have the freedom to change out their GPU, processor, RAM, and more. Therefore, players have a better chance of being able to run most titles. There's been a stark uptick in hardware prices that seems to be climbing higher and higher though, making upgrading inaccessible, costly, and an investment that many are now having second thoughts on.
 ![gpu_price year](https://github.com/user-attachments/assets/5d8b2718-08c6-4dad-9370-6b0a2e6abff6)
 > Average GPU price and year of release
