@@ -1,5 +1,3 @@
-# Analysis of Modern Day Video Game Optimization and Reliance on Advancing Hardware
-
 By Ameer Hamad\
 May 10th, 2025
 
