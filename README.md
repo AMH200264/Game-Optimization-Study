@@ -48,7 +48,7 @@ Despite a very volatile visual presentation, there's actually a slight upturn he
   > Title release year and recommended amount of RAM (gb)
 
 ![storage year](https://github.com/user-attachments/assets/f49ced84-d9c5-4a96-b3e3-573b3608aed0)
-  > Average recommended amount for titles per year
+  > Title release year and recommended amount of storage (gb)
 
 Overall, we can see a pretty consistent increase of the recommended RAM requirement throughout the years (despite a few outliers):
 + 2009-2012 titles request 4GB
